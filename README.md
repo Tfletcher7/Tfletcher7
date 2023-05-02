@@ -1,4 +1,9 @@
-### Hi there 👋
+#Hello, I am Teagen Fletcher, 
+Welcome to my GitHub page! My name is Teagen Fletcher and I am a senior at the University of Iowa, majoring in Business Analytics and Information Systems. As an aspiring data analyst, I am passionate about utilizing data to drive informed decision-making and improve business processes.
+
+Here on my GitHub, you will find a collection of my coding projects, including data analysis and visualization, machine learning models, and web development projects. I am constantly learning and expanding my skillset, and I hope to use this platform to share my progress and collaborate with others in the field.
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or opportunities for collaboration. Thank you for visiting!
 
 <!--
 **Tfletcher7/Tfletcher7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
