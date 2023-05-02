@@ -1,21 +1,14 @@
-#Hello, I am Teagen Fletcher, 
-Welcome to my GitHub page! My name is Teagen Fletcher and I am a senior at the University of Iowa, majoring in Business Analytics and Information Systems. As an aspiring data analyst, I am passionate about utilizing data to drive informed decision-making and improve business processes.
+# Teagen Fletcher - README
+Welcome to my GitHub repository! My name is Teagen Fletcher and I am a senior at the University of Iowa pursuing a degree in Business Analytics and Information Systems.
 
-Here on my GitHub, you will find a collection of my coding projects, including data analysis and visualization, machine learning models, and web development projects. I am constantly learning and expanding my skillset, and I hope to use this platform to share my progress and collaborate with others in the field.
+## Repository Overview
+This repository contains various projects and code samples related to my coursework, personal projects, and professional interests. Some of the topics covered in this repository include data analysis, machine learning, web development, and database management.
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or opportunities for collaboration. Thank you for visiting!
+## Projects
+Here are some of the projects that you will find in this repository:
 
-<!--
-**Tfletcher7/Tfletcher7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project 1: A data analysis project that explores trends in e-commerce sales data
+Project 2: A web development project that builds a simple e-commerce website using HTML, CSS, and JavaScript
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+If you have any questions or comments about any of the projects in this repository, please feel free to contact me at teagenfletcher7@gmail.com. Thank you for visiting my GitHub!
