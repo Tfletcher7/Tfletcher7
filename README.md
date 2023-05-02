@@ -7,7 +7,7 @@ This repository contains various projects and code samples related to my coursew
 ## Projects
 Here are some of the projects that you will find in this repository:
 
-Project 1: [Project 1](./DigitalFinalProject/index.html) This is my portfolio website that I created for a class project. The site is made using HTML and Css. 
+[Project 1](https://github.com/Tfletcher7/DigitalFinalProject): This is my portfolio website that I created for a class project. The site is made using HTML and Css. 
 Project 2: 
 
 ## Contact
