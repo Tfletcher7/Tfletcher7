@@ -7,8 +7,9 @@ This repository contains various projects and code samples related to my coursew
 ## Projects
 Here are some of the projects that you will find in this repository:
 
-[Project 1](https://github.com/Tfletcher7/DigitalFinalProject): This is my portfolio website that I created for a class project. The site is made using HTML and Css. 
-Project 2: 
+[Website Portfolio](https://github.com/Tfletcher7/DigitalFinalProject): My website portfolio is a responsive and visually appealing showcase of my web development projects and skills, built using HTML and CSS. It includes a homepage, projects section, about me section, and contact section, providing a professional and engaging platform for potential employers or clients to learn about me and my work.
+
+[Python Testing](https://github.com/Tfletcher7/python_testing): I used Python testing to test a simple loan calculator that calculates the monthly payments and total cost of a loan based on user inputs such as loan amount, interest rate, and loan term. The tests were designed to ensure the accuracy and functionality of the loan calculator program.
 
 ## Contact
-If you have any questions or comments about any of the projects in this repository, please feel free to contact me at teagenfletcher7@gmail.com. Thank you for visiting my GitHub!
+If you have any questions or comments about any of the projects in this repository, please feel free to contact me at teagenfletcher7@gmail.com or 563-940-5937. Thank you for visiting my GitHub!
