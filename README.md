@@ -1,6 +1,6 @@
 # Teagen Fletcher - README
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teagen-fletcher-513186221/)
-[!Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://teagenfletcher.com/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://teagenfletcher.com/)
 
 Welcome to my GitHub repository! My name is Teagen Fletcher and I am a senior at the University of Iowa pursuing a degree in Business Analytics and Information Systems.
 
