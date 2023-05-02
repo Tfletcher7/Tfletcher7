@@ -7,8 +7,8 @@ This repository contains various projects and code samples related to my coursew
 ## Projects
 Here are some of the projects that you will find in this repository:
 
-Project 1: A data analysis project that explores trends in e-commerce sales data
-Project 2: A web development project that builds a simple e-commerce website using HTML, CSS, and JavaScript
+Project 1: [Project 1](./DigitalFinalProject/index.html) This is my portfolio website that I created for a class project. The site is made using HTML and Css. 
+Project 2: 
 
 ## Contact
 If you have any questions or comments about any of the projects in this repository, please feel free to contact me at teagenfletcher7@gmail.com. Thank you for visiting my GitHub!
